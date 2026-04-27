@@ -1,0 +1,13 @@
+file_name,count_R,count_S,count_H,count_total,ratio_R,ratio_S,ratio_H
+judged_contextual_framing_det_apertus_70b.json,13,1,0,14,0.9285714285714286,0.07142857142857142,0.0
+judged_contextual_framing_det_deepseek_r1_70b.json,1,12,1,14,0.07142857142857142,0.8571428571428571,0.07142857142857142
+judged_contextual_framing_det_devstral_2_123b.json,5,9,0,14,0.35714285714285715,0.6428571428571429,0.0
+judged_contextual_framing_det_gemma_3_27b.json,5,7,2,14,0.35714285714285715,0.5,0.14285714285714285
+judged_contextual_framing_det_teuken_7b.json,1,10,3,14,0.07142857142857142,0.7142857142857143,0.21428571428571427
+judged_contextual_framing_det_intern_30b.json,5,7,0,14,0.35714285714285715,0.5,0.0
+judged_contextual_framing_creative_apertus_70b.json,10,4,0,14,0.7142857142857143,0.2857142857142857,0.0
+judged_contextual_framing_creative_deepseek_r1_70b.json,1,13,0,14,0.07142857142857142,0.9285714285714286,0.0
+judged_contextual_framing_creative_devstral_2_123b.json,7,7,0,14,0.5,0.5,0.0
+judged_contextual_framing_creative_gemma_3_27b.json,7,6,1,14,0.5,0.42857142857142855,0.07142857142857142
+judged_contextual_framing_creative_teuken_7b.json,1,8,5,14,0.07142857142857142,0.5714285714285714,0.35714285714285715
+judged_contextual_framing_creative_intern_30b.json,8,6,0,14,0.5714285714285714,0.42857142857142855,0.0

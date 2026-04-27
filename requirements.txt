@@ -1,0 +1,13 @@
+transformers==4.57.6
+torch==2.9.0
+vllm==0.11.2
+openai==2.8.1
+anthropic==0.71.0
+datasets==4.6.1
+pandas==2.2.3
+tqdm==4.67.1
+numpy==2.2.5
+langchain==0.3.25
+langchain-community==0.3.24
+requests==2.32.3
+loguru==0.7.3
