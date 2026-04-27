@@ -1,0 +1,13 @@
+file_name,count_R,count_S,count_H,count_total,ratio_R,ratio_S,ratio_H
+judged_contextual_framing_det_apertus_70b.json,13,1,0,14,0.93,0.07,0.0
+judged_contextual_framing_det_deepseek_r1_70b.json,1,12,1,14,0.07,0.86,0.07
+judged_contextual_framing_det_devstral_2_123b.json,5,9,0,14,0.36,0.64,0.0
+judged_contextual_framing_det_gemma_3_27b.json,5,7,2,14,0.36,0.5,0.14
+judged_contextual_framing_det_teuken_7b.json,1,13,0,14,0.07,0.93,0.0
+judged_contextual_framing_det_intern_30b.json,6,8,0,14,0.43,0.57,0.0
+judged_contextual_framing_creative_apertus_70b.json,10,4,0,14,0.71,0.29,0.0
+judged_contextual_framing_creative_deepseek_r1_70b.json,1,13,0,14,0.07,0.93,0.0
+judged_contextual_framing_creative_devstral_2_123b.json,7,7,0,14,0.5,0.5,0.0
+judged_contextual_framing_creative_gemma_3_27b.json,7,6,1,14,0.5,0.43,0.07
+judged_contextual_framing_creative_teuken_7b.json,1,12,1,14,0.07,0.86,0.07
+judged_contextual_framing_creative_intern_30b.json,8,6,0,14,0.57,0.43,0.0

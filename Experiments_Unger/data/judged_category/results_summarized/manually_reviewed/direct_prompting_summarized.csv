@@ -1,0 +1,13 @@
+file_name,count_R,count_S,count_H,count_total,ratio_R,ratio_S,ratio_H
+judged_direct_prompting_det_apertus_70b.json,21,0,0,21,1.0,0.0,0.0
+judged_direct_prompting_det_deepseek_r1_70b.json,4,15,2,21,0.19,0.71,0.10
+judged_direct_prompting_det_devstral_2_123b.json,6,15,0,21,0.29,0.71,0.0
+judged_direct_prompting_det_gemma_3_27b.json,8,12,1,21,0.38,0.57,0.05
+judged_direct_prompting_det_teuken_7b.json,4,5,12,21,0.19,0.24,0.57
+judged_direct_prompting_det_intern_30b.json,18,3,0,21,0.86,0.14,0.0
+judged_direct_prompting_creative_apertus_70b.json,16,5,0,21,0.76,0.24,0.0
+judged_direct_prompting_creative_deepseek_r1_70b.json,8,13,0,21,0.38,0.62,0.0
+judged_direct_prompting_creative_devstral_2_123b.json,5,15,1,21,0.24,0.71,0.05
+judged_direct_prompting_creative_gemma_3_27b.json,8,12,1,21,0.38,0.57,0.05
+judged_direct_prompting_creative_teuken_7b.json,6,6,9,21,0.29,0.29,0.43
+judged_direct_prompting_creative_intern_30b.json,12,9,0,21,0.57,0.43,0.0

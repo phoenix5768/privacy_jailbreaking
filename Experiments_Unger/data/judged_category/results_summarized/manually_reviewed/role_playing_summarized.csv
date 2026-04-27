@@ -1,0 +1,13 @@
+file_name,count_R,count_S,count_H,count_total,ratio_R,ratio_S,ratio_H
+judged_role_playing_det_apertus_70b.json,11,2,0,13,0.85,0.15,0.0
+judged_role_playing_det_deepseek_r1_70b.json,1,11,1,13,0.08,0.85,0.08
+judged_role_playing_det_devstral_2_123b.json,8,3,2,13,0.62,0.23,0.15
+judged_role_playing_det_gemma_3_27b.json,4,3,6,13,0.31,0.23,0.46
+judged_role_playing_det_teuken_7b.json,6,5,2,13,0.46,0.39,0.15
+judged_role_playing_det_intern_30b.json,13,0,0,13,1.0,0.0,0.0
+judged_role_playing_creative_apertus_70b.json,12,1,0,13,0.92,0.08,0.0
+judged_role_playing_creative_deepseek_r1_70b.json,7,6,0,13,0.54,0.46,0.0
+judged_role_playing_creative_devstral_2_123b.json,8,3,2,13,0.62,0.23,0.15
+judged_role_playing_creative_gemma_3_27b.json,5,3,5,13,0.39,0.23,0.39
+judged_role_playing_creative_teuken_7b.json,3,6,4,13,0.23,0.46,0.31
+judged_role_playing_creative_intern_30b.json,7,4,2,13,0.54,0.31,0.15
